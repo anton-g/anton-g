@@ -1,5 +1,12 @@
 <h2 align="center">✨ antons 💫fantastic💫 and 💥super cool💥 github profile ✨</h2>
 
+### facts:
+
+- 🎉 i like confetti
+- 🕸 i have a [digital garden playground website that is sort of a blog and portfolio](https://antongunnarsson.com)
+- 🍕 i talk about code (in swedish) at [asdf.pizza](https://asdf.pizza)
+- 🐓 i occasionally post Very Fun Stuff™ i do on the [bird website](https://twitter.com/awnton)
+
 <!--
 **anton-g/anton-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
